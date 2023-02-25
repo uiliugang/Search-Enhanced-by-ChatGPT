@@ -33,7 +33,7 @@
 
   // user config
   const apiKey = GM_getValue("api_key", 'YOUR_API_KEY');
-  const max_tokens = GM_getValue("max_tokens", 300);
+  const max_tokens = GM_getValue("max_tokens", 200);
   const model = GM_getValue("model", "text-davinci-002");
   const temperature = GM_getValue("temperature", 0.5);
   const position = GM_getValue("position", 1);
