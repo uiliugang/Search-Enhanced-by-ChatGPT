@@ -5,7 +5,7 @@
 - you can config your script settings: max_tokens chatpgpt returns,position of answer container(0: innner, 1: right-side), temperature(float: 0-1, it means relevance) and model you called.
 
 I have tested this script installed in tampermonkey for neeva, google and bing, it works well. you can download from [greasyfork ](https://greasyfork.org/zh-CN/scripts/460673-search-enhanced-by-chatgpt)
-
+![](https://github.com/uiliugang/Search-Enhanced-by-ChatGPT/blob/5f58b421b2cd9230f33a499cf056bb5d7c100a6c/screenshots/bing_1.png)
 
 
 
