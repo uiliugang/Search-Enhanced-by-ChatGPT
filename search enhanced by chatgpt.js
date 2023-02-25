@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Search Enhanced by ChatGPT
-// @name:zh-CN   ChatGPT丝滑搜索
+// @name:zh-CN   ChatGPT增强搜索
 // @namespace    http://tampermonkey.net/
 // @version      1.1
 // @description  support: bing, google, neeva. If your searching content ends with '?' or '/', this script will send it as prompt to ChatGPT and show the answer in the result page automatically. support settings: max_taokens, model, temperature(relevance: 0-2), position(inner: 0, right-side: 1)
